@@ -1,5 +1,5 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (RX TOPUP BD)
 // =======================================================
 var website_name = "RX TOPUP BD";
 
